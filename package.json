@@ -1,0 +1,16 @@
+{
+  "name": "start_met_gulp",
+  "version": "1.0.0",
+  "description": "Dit is een voorbeeld van gulp en scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Annelotte Fellinger",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.10.0"
+  }
+}
