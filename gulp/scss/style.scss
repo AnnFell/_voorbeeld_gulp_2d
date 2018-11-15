@@ -1,4 +1,6 @@
-h1 {
-  color:red;
-  font-size: 30px;
-}
+/* --- Globals/variables --- */
+@import "globals/cssreset";
+@import "globals/globals";
+
+/* --- Pages --- */
+@import "pages/homepagina";
